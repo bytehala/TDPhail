@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">TDPhail</string>
-    <string name="TestIgnore">the way to ignore is untrack??</string>
+    <string name="IgnoreTest">the way to ignore is untrack??</string>
 </resources>
