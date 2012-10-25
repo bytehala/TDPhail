@@ -23,6 +23,7 @@ public class TDPhail
     final int mCameraHeight = 480;
     public Scene mScene;
     private Scene[] sceneLayers;
+    final int test = 1;
 
     Point prevPoint, currPoint;
 
