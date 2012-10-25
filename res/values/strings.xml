@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TDPhail</string>
+    <string name="TestIgnore">blech</string>
 </resources>
